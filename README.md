@@ -6,4 +6,4 @@
 
 ## pictures
 
-![The Base](Basic_Onshape_CAD/Caster_part_pics/CasterBase.png)
+![The Base](Caster_Part_Pics/CasterBase.png)
