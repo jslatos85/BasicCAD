@@ -6,4 +6,4 @@
 
 ## pictures
 
-![The Base](Caster part pics/CasterBase.png)
+![The Base](Caster part pics/CasterBase.png.jpg)
