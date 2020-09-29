@@ -12,4 +12,4 @@
 
 ![The Fork](Caster_Part_Pics/CasterFork.png)
 
-![The Tire](Caster_Pics/CasterTire.png)
+![The Tire](Caster_Part_Pics/CasterTire.png)
