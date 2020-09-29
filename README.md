@@ -13,3 +13,5 @@
 ![The Fork](Caster_Part_Pics/CasterFork.png)
 
 ![The Tire](Caster_Part_Pics/CasterTire.png)
+
+![Wheel Rim](Caster_Part_Pics/CasterWheelRim.png)
