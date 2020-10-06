@@ -97,6 +97,17 @@ Onshape is awesome.  I found it really helpful to rename all my sketches.  It is
 
 ### Description
 
+My sixth assignment has me building my Axle, Collar, and Bearings
+#### Axle
+1. My first step was to create the main sketch wich had 2 circles one had 10mm and the other had 6mm. 
+2. My first extrude required the main sketch and a symmetric 60mm extrude. 
+3. Next I created a horizantal line using the main sketches out circle witch was 4.5mm away from the origin.
+4. My next extrude I remove 10mm using the line I had created from the second sketch.
+5. Now last I had to mirror the 2nd extrude with the Front plain.
+#### Collar
+
+#### Bearings
+
 ### Evidence
 
 ### Image
