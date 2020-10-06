@@ -10,7 +10,7 @@ We are creating a caster.
 * [Fork](#Fork)
 * [Tire](#Tire)
 * [Wheel](#Wheel)
-* [AxleCollarBearings](#AxleCollarBearings)
+* [AxleCollarBearings](#Axle, Collar, and Bearings)
 
 ## Base
 
