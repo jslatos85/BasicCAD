@@ -10,7 +10,7 @@ We are creating a caster.
 * [Fork](#Fork)
 * [Tire](#Tire)
 * [Wheel](#Wheel)
-* [AxleCollarBearings](#Axle,-Collar,-and-Bearings)
+* [AxleCollarBearings](#Axle,Collar,andBearings)
 
 ## Base
 
@@ -93,7 +93,7 @@ Onshape is awesome.  I found it really helpful to rename all my sketches.  It is
 ---
 
 
-## Axle, Collar, and Bearings
+## Axle,Collar,andBearings
 
 ### Description
 
