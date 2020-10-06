@@ -47,6 +47,8 @@ Onshape is awesome.  I found it really helpful to rename all my sketches.  It is
 
 ### Image
 
+<img src="https://github.com/jslatos85/BasicCAD/blob/master/Caster_Part_Pics/Screenshot%202020-10-02%20090456.png?raw=true" width="400">
+
 ### Reflection
 
 ---
