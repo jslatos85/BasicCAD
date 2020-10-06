@@ -93,7 +93,7 @@ Onshape is awesome.  I found it really helpful to rename all my sketches.  It is
 ---
 
 
-## AxleCollarBearings
+## Axle, Collar, and Bearings
 
 ### Description
 
