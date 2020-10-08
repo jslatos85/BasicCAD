@@ -54,6 +54,8 @@ For the mount I copied the Base and cut out about half of the build.
 
 ### Reflection
 
+I learned how to cut out part of a sketch thank to [Dr. Shields](https://www.youtube.com/watch?v=BWDk4BZFXDQ&feature=youtu.be)
+
 ---
 
 
