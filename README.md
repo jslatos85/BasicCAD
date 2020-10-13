@@ -64,8 +64,11 @@ I learned how to cut out part of a sketch thanks to [Dr. Shields](https://www.yo
 ### Description
 
 ### Evidence
+[The Fork in Onshape](https://cvilleschools.onshape.com/documents/7c7c32d6a398bc753a581861/w/929574fe5943517196066f9a/e/6f9233510608aefb04ff904b)
 
 ### Image
+
+<img src="https://github.com/jslatos85/BasicCAD/blob/master/Caster_Part_Pics/Screenshot%202020-10-02%20090628.png?raw=true" width="400">
 
 ### Reflection
 
