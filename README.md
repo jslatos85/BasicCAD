@@ -62,7 +62,8 @@ I learned how to cut out part of a sketch thanks to [Dr. Shields](https://www.yo
 ## Fork
 
 ### Description
-
+1. Made a 80mm circle and extruded it by 8mm
+2. Next I made a rectangle 15mm away form the center thats 40mm long and 5mm wide
 ### Evidence
 [The Fork in Onshape](https://cvilleschools.onshape.com/documents/7c7c32d6a398bc753a581861/w/929574fe5943517196066f9a/e/6f9233510608aefb04ff904b)
 
