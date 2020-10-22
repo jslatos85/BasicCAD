@@ -62,8 +62,12 @@ I learned how to cut out part of a sketch thanks to [Dr. Shields](https://www.yo
 ## Fork
 
 ### Description
-1. Made a 80mm circle and extruded it by 8mm
-2. Next I made a rectangle 15mm away form the center thats 40mm long and 5mm wide
+1. I made a 80mm circle and extruded it by 8mm
+2. I made a rectangle 15mm away from the center thats 40mm long and 5mm wide and extruded that by 75mm.
+3. I put 3 fillets, one on the edges of the top by 15mm, then the whole extrude with 1 mm, and finally the edge that connects extrude and the base with a 4mm fillet.
+4. I mirrored it using the top plane, after that I had a 10mm whole away 15mm away from the top through both the mirrored and original.
+5. I had 2 circles one 15mm the other 20 on the back of the build and extruded that by 60mm.
+6. I chanfered some of the base edges and some of the last extrude.
 ### Evidence
 [The Fork in Onshape](https://cvilleschools.onshape.com/documents/7c7c32d6a398bc753a581861/w/929574fe5943517196066f9a/e/6f9233510608aefb04ff904b)
 
@@ -72,6 +76,8 @@ I learned how to cut out part of a sketch thanks to [Dr. Shields](https://www.yo
 <img src="https://github.com/jslatos85/BasicCAD/blob/master/Caster_Part_Pics/Screenshot%202020-10-02%20090628.png?raw=true" width="400">
 
 ### Reflection
+
+I learned that you can fillet a edge that touches another part of the build.
 
 ---
 
